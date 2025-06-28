@@ -27,8 +27,8 @@ namespace PetGameAirBattle.Models
             }
 
             // Обновляем позицию
-            Canvas.SetLeft(UiElement, X);
-            Canvas.SetTop(UiElement, Y);
+            Canvas.SetLeft(UiElement, base.X);
+            Canvas.SetTop(UiElement, base.Y);
         }
     }
 }

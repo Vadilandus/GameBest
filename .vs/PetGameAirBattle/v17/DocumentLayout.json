@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\",
+  "WorkspaceRootPath": "C:\\Users\\Vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PetGameAirBattle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|c:\\users\\vadim\\source\\repos\\petgameairbattle\\petgameairbattle\\models\\playerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|solutionrelative:petgameairbattle\\models\\playerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|c:\\users\\vadim\\source\\repos\\petgameairbattle\\petgameairbattle\\models\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|solutionrelative:petgameairbattle\\models\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|c:\\users\\vadim\\source\\repos\\petgameairbattle\\petgameairbattle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\petgameairbattle\\petgameairbattle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|solutionrelative:petgameairbattle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|c:\\users\\vadim\\source\\repos\\petgameairbattle\\petgameairbattle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\petgameairbattle\\petgameairbattle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|solutionrelative:petgameairbattle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\petgameairbattle\\petgameairbattle\\models\\playerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC01AC8-55C0-42D9-B9C7-326786E01A72}|PetGameAirBattle\\PetGameAirBattle.csproj|solutionrelative:petgameairbattle\\models\\playerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,61 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerObject.cs",
-              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\Models\\PlayerObject.cs",
-              "RelativeDocumentMoniker": "PetGameAirBattle\\Models\\PlayerObject.cs",
-              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\Models\\PlayerObject.cs",
-              "RelativeToolTip": "PetGameAirBattle\\Models\\PlayerObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PetGameAirBattle\\PetGameAirBattle\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PetGameAirBattle\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PetGameAirBattle\\PetGameAirBattle\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PetGameAirBattle\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA7wC0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T17:48:32.018Z",
+              "WhenOpened": "2025-06-28T21:08:27.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BaseObject.cs",
-              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\Models\\BaseObject.cs",
-              "RelativeDocumentMoniker": "PetGameAirBattle\\Models\\BaseObject.cs",
-              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\Models\\BaseObject.cs",
-              "RelativeToolTip": "PetGameAirBattle\\Models\\BaseObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T17:47:49.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PetGameAirBattle\\PetGameAirBattle\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PetGameAirBattle\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PetGameAirBattle\\PetGameAirBattle\\MainWindow.xaml",
               "RelativeToolTip": "PetGameAirBattle\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-28T17:40:17.312Z",
+              "WhenOpened": "2025-06-28T21:08:25.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PetGameAirBattle\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\MainWindow.xaml.cs",
-              "RelativeToolTip": "PetGameAirBattle\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAFAAAAAAAAAA==",
+              "Title": "PlayerObject.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PetGameAirBattle\\PetGameAirBattle\\Models\\PlayerObject.cs",
+              "RelativeDocumentMoniker": "PetGameAirBattle\\Models\\PlayerObject.cs",
+              "ToolTip": "C:\\Users\\Vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PetGameAirBattle\\PetGameAirBattle\\Models\\PlayerObject.cs",
+              "RelativeToolTip": "PetGameAirBattle\\Models\\PlayerObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T17:40:17.196Z",
+              "WhenOpened": "2025-06-28T21:04:28.989Z",
               "EditorCaption": ""
             }
           ]

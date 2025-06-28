@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PetGameAirBattle.ConstValues;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,8 +11,8 @@ namespace PetGameAirBattle.Models
 {
     abstract class BaseObject
     {
-        public double X { get; set; }
-        public double Y { get; set; }
+        public double X { get; set; } = Consts._zeroValue;
+        public double Y { get; set; } = Consts._zeroValue;
         public double Width { get; set; }
         public double Height { get; set; }
         public UIElement? UiElement { get; protected set; }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\PetGameAirBattle.csproj",
+      "projectUniqueName": "C:\\Users\\Vadim\\OneDrive\\Рабочий стол\\PetGameAirBattle\\PetGameAirBattle\\PetGameAirBattle.csproj",
       "projectName": "PetGameAirBattle",
-      "projectPath": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\PetGameAirBattle.csproj",
+      "projectPath": "C:\\Users\\Vadim\\OneDrive\\Рабочий стол\\PetGameAirBattle\\PetGameAirBattle\\PetGameAirBattle.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vadim\\source\\repos\\PetGameAirBattle\\PetGameAirBattle\\obj\\",
+      "outputPath": "C:\\Users\\Vadim\\OneDrive\\Рабочий стол\\PetGameAirBattle\\PetGameAirBattle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
